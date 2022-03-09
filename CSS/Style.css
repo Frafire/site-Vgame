@@ -1,0 +1,9 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    color: #fff;
+}
